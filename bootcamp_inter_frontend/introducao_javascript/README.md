@@ -1,6 +1,6 @@
-* Introdução ao Javascript
+# Introdução ao Javascript
 
-** Projetos referentes ao curso Introdução ao Javascript da Digital Innovation One.
+## Projetos referentes ao curso Introdução ao Javascript da Digital Innovation One.
 
-- Contador
+- Contador 
 - To-Do List
