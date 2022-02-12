@@ -1,0 +1,20 @@
+{
+  "name": "primeira-aula",
+  "version": "1.0.0",
+  "description": "projeto para treinar e iniciar no node",
+  "main": "./dist/index.js",
+  "scripts": {
+    "main": "node ./",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p ."
+  },
+  "keywords": [
+    "javascript;node"
+  ],
+  "author": "Marcela Leite",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.17",
+    "typescript": "^4.5.5"
+  }
+}
